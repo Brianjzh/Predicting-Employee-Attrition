@@ -52,12 +52,12 @@ This project uses logistic regression models to analyze and predict employee att
 - **Best Model**: Model 3 (Age + Gender + JobSatisfaction) had the highest AUC value on test data (0.6497).
 
 ### **Evaluation Metrics**
-| Model                          | AUC (Test Data) | Precision | Recall  |
-|--------------------------------|-----------------|-----------|---------|
-| Model 1: Age                   | 0.608           | X         | X       |
-| Model 2: Age + Gender          | 0.602           | X         | X       |
-| Model 3: Age + Gender + JobSatisfaction | 0.632           | X         | X       |
-| Model 4: Interaction Model     | 0.646           | X         | X       |
+| Model                          | AUC (Test Data) | 
+|--------------------------------|-----------------|
+| Model 1: Age                   | 0.608           | 
+| Model 2: Age + Gender          | 0.602           | 
+| Model 3: Age + Gender + JobSatisfaction | 0.632           | 
+| Model 4: Interaction Model     | 0.646           | 
 
 ---
 
