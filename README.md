@@ -61,13 +61,10 @@ This project uses logistic regression models to analyze and predict employee att
 
 ---
 
-## Sample Visualizations
-- **Age vs Attrition**:
-  ![Age vs Attrition](images/age_vs_attrition.png)
+## Sample Visualization
 - **ROC Curves for All Models**:
-  ![ROC Curves](images/roc_curves.png)
-- **Marginal Effects of Age**:
-  ![Marginal Effects - Age](images/marginal_effects_age.png)
+  ![ROC Curves](AUC)
+
 
 ---
 
