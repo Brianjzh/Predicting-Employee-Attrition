@@ -62,8 +62,8 @@ This project uses logistic regression models to analyze and predict employee att
 ---
 
 ## Sample Visualization
- **ROC Curves for All Models**
-  ![ROC Curves](AUC)
+###ROC Curves for All Models
+![ROC Curves](AUC)
 ---
 
 ## How to Use
